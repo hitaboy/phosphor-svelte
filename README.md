@@ -97,4 +97,8 @@ MIT © [Phosphor Icons](https://github.com/phosphor-icons)
 ## Knowledge
 
 - [Phosphor React](https://github.com/phosphor-icons/phosphor-react/)
+
 - [Carbon Icons Svelte](https://github.com/IBM/carbon-icons-svelte/)
+
+
+Aquesta és una edició d'aquesta plana de github. Per probar com seria usar-ho com a gestió de notes.
